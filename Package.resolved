@@ -41,8 +41,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/pointfreeco/swift-clocks",
       "state" : {
-        "revision" : "d1fd837326aa719bee979bdde1f53cd5797443eb",
-        "version" : "1.0.0"
+        "revision" : "eb64eacfed55635a771e3410f9c91de46cf5c6a0",
+        "version" : "1.0.3"
       }
     },
     {
@@ -75,10 +75,10 @@
     {
       "identity" : "swift-dependencies",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-dependencies",
+      "location" : "https://github.com/adimobile/swift-dependencies",
       "state" : {
-        "revision" : "4e1eb6e28afe723286d8cc60611237ffbddba7c5",
-        "version" : "1.0.0"
+        "branch" : "1.0.0-shared-lock",
+        "revision" : "fb82135691508d7b27b17a7adec3c7844f50a037"
       }
     },
     {
@@ -106,6 +106,15 @@
       "state" : {
         "revision" : "d1e45f3e1eee2c9193f5369fa9d70a6ddad635e8",
         "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swift-issue-reporting",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/swift-issue-reporting",
+      "state" : {
+        "revision" : "a3f634d1a409c7979cabc0a71b3f26ffa9fc8af1",
+        "version" : "1.4.3"
       }
     },
     {
